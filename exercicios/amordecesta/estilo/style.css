@@ -111,15 +111,14 @@ main p {
     line-height: 2em;
 }
 
-main img {
-    width: auto;
-    display: block;
-    margin: auto;
-}
 
-main img.pequena {
+main picture.logo {
     max-width: 350px;
     display: block;
     margin: auto;
 }
 
+.imagens img {
+    padding: 10px;
+    padding-top: 10px;
+}
